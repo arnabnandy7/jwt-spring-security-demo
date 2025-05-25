@@ -99,11 +99,10 @@ Sorry for that but I'm very busy right now and don't have much time.
 
 The code is released under the [MIT license](LICENSE?raw=true).
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/jwt-spring-security-demo@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/jwt-spring-security-demo@github)
-
-
-
 ---------------------------------------
 
 Please feel free to send me some feedback or questions!
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/jwt-spring-security-demo@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/jwt-spring-security-demo@github)
+
