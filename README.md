@@ -95,10 +95,14 @@ Sorry for that but I'm very busy right now and don't have much time.
 * https://twitter.com/stzerhus
 * https://github.com/szerhusenBC
 
-<!-- GitAds-Verify: LYGJ5ZL4YCA39NXJ24SQ3874JPQE93NN -->
 ## Copyright and license
 
 The code is released under the [MIT license](LICENSE?raw=true).
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/jwt-spring-security-demo@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/jwt-spring-security-demo@github)
+
+
 
 ---------------------------------------
 
